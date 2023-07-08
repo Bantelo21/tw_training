@@ -220,8 +220,7 @@ Exercise 13:
 Create an XML file to represent a geographical map. Include elements for "map", "locations", and "routes". The "map" element should contain attributes for "name" and "scale". The "locations" element should have child elements representing different locations with attributes for "id", "name", "latitude", and "longitude". The "routes" element should contain child elements representing different routes with child elements for "startLocation", "endLocation", and "distance".
 
 ```xml
-jhj
-kj
+
 ```
 
 Exercise 14:
